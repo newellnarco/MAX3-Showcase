@@ -40,7 +40,49 @@ flowchart LR
 
 ## Screenshots
 
+**Knowledge graph**
+
 ![Knowledge graph](docs/screenshots/graph.png)
+
+**Knowledge graph, second theme**
+
+![Knowledge graph, second theme](docs/screenshots/graph-wargames.png)
+
+**Taxonomy browser with node detail**
+
+![Taxonomy browser with node detail](docs/screenshots/taxonomy.png)
+
+**Taxonomy browser, second theme**
+
+![Taxonomy browser, second theme](docs/screenshots/taxonomy-wargames.png)
+
+**System monitor**
+
+![System monitor](docs/screenshots/system-monitor.png)
+
+**Voice pipeline**
+
+![Voice pipeline](docs/screenshots/voice-pipeline.png)
+
+**Voice modulator**
+
+![Voice modulator](docs/screenshots/voice-modulator.png)
+
+**Voice modulator, dials**
+
+![Voice modulator, dials](docs/screenshots/voice-modulator-dials.png)
+
+**Voice modulator, second theme**
+
+![Voice modulator, second theme](docs/screenshots/voice-modulator-wargames.png)
+
+**MAX mode**
+
+![MAX mode](docs/screenshots/max-mode.png)
+
+**Strategy games**
+
+![Strategy games](docs/screenshots/strategy.png)
 
 ## Read more
 
