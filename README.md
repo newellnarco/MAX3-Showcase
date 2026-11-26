@@ -1,6 +1,6 @@
 # MAX3: Local-First AI Resident (Showcase)
 
-> **This is a showcase repository.** The MAX3 source code is private. This repo holds the overview, architecture and screenshots so reviewers can see what was built. Questions are welcome through [LinkedIn](https://www.linkedin.com/in/jnewell).
+> **This is a showcase repository.** The MAX3 source code is private. This repo holds the overview, architecture and screenshots so reviewers can see what was built. Questions are welcome at [info@maxresearchcollective.com](mailto:info@maxresearchcollective.com) or through [www.maxresearchcollective.com](https://www.maxresearchcollective.com).
 
 MAX (Modular Algorithmic eXecutor) is a local-first, voice-first AI resident: one process on one machine that reconciles fragmented data, keeps every fact tied to its source, and recommends rather than decides. MAX3 is the third generation. It is built and now frozen; its lessons carry into [MAX4](https://github.com/newellnarco/MAX4-Showcase).
 
